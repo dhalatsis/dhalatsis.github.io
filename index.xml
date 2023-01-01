@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitrios Halatsis</title>
+    <link>https://demetriushal.github.io/</link>
+      <atom:link href="https://demetriushal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dimitrios Halatsis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://demetriushal.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dimitrios Halatsis</title>
+      <link>https://demetriushal.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://demetriushal.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://demetriushal.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mind the Path</title>
+      <link>https://demetriushal.github.io/project/example/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://demetriushal.github.io/project/example/</guid>
+      <description>&lt;p&gt;Description
+💎 Idea&lt;/p&gt;
+&lt;p&gt;Problem:&lt;/p&gt;
+&lt;p&gt;Undoubtedly, there are too many uncharted trails. Google Maps, AllTrails and other companies fail to map all of them, and the only solution so far is for mappers to do it. Cartography is solely based on people. As a result, if a person does not map a trail, the trail basically never existed! What’s worse, is that, on average, mapping a whole area takes around 3-5 years! And everyone knows that mapping an unknown area, let alone hike it, could be highly unsafe.&lt;/p&gt;
+&lt;p&gt;All the above led to the formation of Mind the Path, the Deep Learning Application capable of solving this problem.&lt;/p&gt;
+&lt;p&gt;Solution:&lt;/p&gt;
+&lt;p&gt;The existence of Copernicus and Galileo inspired Mind the Path to capitalize on satellite data and apply them to a cutting-edge AI model in order to identify uncharted trails. This way, not only does Mind the Path assist cartography by finding new trails and roads, but enhances it too, since we estimate it can speed up the mapping process by up to 70%. Furthermore, the cost of said mapping process will be lowered, since personnel will not be needed to actually visit an area. As for the safety, the trails will obviously have been mapped by the time a hiker goes to explore them. But even for the first person who treks in a generated trail of our algorithm, they will be tracked at all times by Galileo’s satellites and the app will even keep their closed ones updated regarding their whereabouts for their safety.&lt;/p&gt;
+&lt;p&gt;🛰️ EU space technologies&lt;/p&gt;
+&lt;p&gt;Mind the Path uses Copernicus Satellites EO’s Data to gather geographical and climate’s statistics information and Galileo’s signals to track the position of its users. This way, it deep-trains its model and finds untracked trail maps!&lt;/p&gt;
+&lt;p&gt;More specifically, during the hackathon stage:&lt;/p&gt;
+&lt;p&gt;Galileo is used to track the geolocation in each user’s device in order to locate them and, thus, track them through the app for their safety and for a better navigation experience
+Copernicus’ data provides Mind the Path with all the geographical data (terrain roughness, altitude, etc.) and climate stats (vegetation to check tree presence, air concentration, weather, water quality and others) necessary to properly find new trails and distinguish their difficulties
+As for the next stage, data applications will include, but are not limited to, the following:&lt;/p&gt;
+&lt;p&gt;Predicting Air Quality. The AI algorithm will utilize even more Copernicus data to estimate the air quality of an area and suggest relative trails to its users
+Defining Vegetation Types. Using Copernicus’ ndvi information, Mind The Path will successfully find all different flora in an area, further satisfying nature enthusiasts’ needs
+🏖️ (Re)Visit Europe&lt;/p&gt;
+&lt;p&gt;Mind the Path’s solution will revolutionize exploring nature with care (Challenge #3). Generating untracked routes and showcasing their points of interest and activities available will draw more people closer to the nature, thus immediately supporting adventure/green tourism. Furthermore, nature enthusiasts using the app will be posting their experiences and sharing them amongst friends and fellow enthusiasts, rating the trails followed, thus assisting both new and old hikers in getting closer to the natural environment.&lt;/p&gt;
+&lt;p&gt;💪 Team&lt;/p&gt;
+&lt;p&gt;Mendrinos Georgios, NCSR Demokritos, Coordinator&lt;/p&gt;
+&lt;p&gt;Halatsis Dimitrios: MSc from EPFL, Deep learning optimization&lt;/p&gt;
+&lt;p&gt;Costopoulos Constantinos, Georgia Tech Aerospace Meng.Industry experience in Business administration, Business Administration &amp;amp; Model&lt;/p&gt;
+&lt;p&gt;Tsaousis Konstantinos, ECE NTUA Meng, Deep learning engineer&lt;/p&gt;
+&lt;p&gt;Glytsos Marios, ECE NTUA Meng, AI &amp;amp; Copernicus Data Processing&lt;/p&gt;
+&lt;p&gt;Michas Georgios, EPFL, Software &amp;amp; GNSS usage&lt;/p&gt;
+&lt;p&gt;Pagoulatos Fivos, UoA informatics, Hardware Development&lt;/p&gt;
+&lt;p&gt;Pyrenis Nikos, UoA automation, Market &amp;amp; Competition Analysis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://demetriushal.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://demetriushal.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://demetriushal.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://demetriushal.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://demetriushal.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://demetriushal.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://demetriushal.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://demetriushal.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
